@@ -73,7 +73,7 @@ const pasajeros = []
 //////////////////////Obtengo el pasajero del Local Storage
 let pasajeroStorage = JSON.parse(localStorage.getItem("pasajero"));
 if (pasajeroStorage) {let { apellido, nombres, mail } = pasajeroStorage[0]}; //Optimizado Desestructurar Objeto    
-fetch('./json/habitaciones.json')
+fetch('../json/habitaciones.json')
   .then((res) => res.json())
   .then((data) => {
     data.forEach((hab) => {
