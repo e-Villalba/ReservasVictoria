@@ -1,0 +1,17 @@
+Hola Juan! Para la entrega Fetch, hice lo siguiente:
+Generalidades
+    1 - Incorporé el simulador en un "Site de Hotel", si ingresás a la opción de menú "Reservas" se dispara el simulador javascript para reservas.
+    2 - Al ingresar a la opción "Reservas", agregué un "logueo" en donde el usuario indica Nombre, Apellido y Mail, estos datos antes estaban "en duro", ahora pueden ser cargados por el usuario y son utilizados para las reservas del pasajero. El mail en particular es usado para la implementación de 
+
+Cargar datos de habitaciones:
+    1 - Creé el archivo habitaciones.json, este archivo tiene las habitaciones para las reservas a realizar
+    2 - En el archivo clases.js implementé fecth para obtener las reservas del archivo habitaciones.json que luego dejo disponibles en array.
+Envío de mail:
+    1 - Investigué como utilizar email.js y (no sin renegar bastante jeje) logré implementar envío de mails con email.js utilizando fetch. Esto lo podrás encontrar
+    en el archivo "funciones_dom.js" function fnConfReserva() y function fnMuestraReserva()
+    2 - Con este agregado el usuario tiene la funcionalidad que al  confirmar la reserva  o mostrarla se presenta el botón "enviar mail" que envía un mail al pasajero "logueado"
+    de acuerdo al mail ingresado. 
+    
+Muchas gracias! 
+ 
+    

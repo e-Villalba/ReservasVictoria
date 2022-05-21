@@ -1,0 +1,15 @@
+[
+    {"nroHabitacion":1, "tipoHabitacion":"DOBLE", "tarifa":"8.000", "descripcion":"Cama matrimonial King Size, vista al Jardín. Desayuno Incluido.","fechaOcupDesde":"2022-05-15","fechaOcupHasta":"2022-05-25","foto":"../imagenes/habitaciones/Habitacion1.jpg"},   
+    {"nroHabitacion":2, "tipoHabitacion":"SIMPLE", "tarifa":"6.000", "descripcion":"2 Camas individuales, vista a la cancha de Golf. Desayuno Incluido.","fechaOcupDesde":"2022-05-15","fechaOcupHasta":"2022-05-25","foto":"../imagenes/habitaciones/Habitacion2.jpg"},   
+    {"nroHabitacion":3, "tipoHabitacion":"SIMPLE", "tarifa":"4.000", "descripcion":"2 Camas individuales, sin desayuno incluido.","fechaOcupDesde":"2022-05-15","fechaOcupHasta":"2022-05-25","foto":"../imagenes/habitaciones/Habitacion3.jpg"},   
+    {"nroHabitacion":4, "tipoHabitacion":"VIP", "tarifa":"15.000", "descripcion":"Cama matrimonial King Size, vista a la cancha de Golf. Desayuno y Cena incluidos.","fechaOcupDesde":"2022-05-15","fechaOcupHasta":"2022-05-25","foto":"../imagenes/habitaciones/Habitacion4.jpg"},   
+    {"nroHabitacion":5, "tipoHabitacion":"FAMILIAR", "tarifa":"17.000", "descripcion":"Cama matrimonial y 2 camas individuales. Desayuno Incluido.","fechaOcupDesde":"2022-05-15","fechaOcupHasta":"2022-05-25","foto":"../imagenes/habitaciones/Habitacion5.jpg"}   
+]
+
+
+
+
+
+
+
+
